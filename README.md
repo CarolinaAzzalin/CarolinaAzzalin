@@ -49,6 +49,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: CarolinaAzzalin](https://img.shields.io/badge/-CarolinaAzzalin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/CarolinaAzzalin)](https://github.com/CarolinaAzzalin)
+[![Linkedin: CarolinaAzzalin](https://img.shields.io/badge/-CarolinaAzzalin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-azzalin-a5396398/)](https://www.linkedin.com/in/carolina-azzalin-a5396398/)
 [![Gmail Badge](https://img.shields.io/badge/-CarolinaAzzalin@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:analufsou@gmail.com)
-[![GitHub CarolAzzalin]( https://img.shields.io/github/followers/CarolAzzalin?label=follow&style=social)](https://github.com/CarolAzzalin)
+[![GitHub Carolazzalin]( https://img.shields.io/github/followers/Carolazzalin?label=follow&style=social)](https://github.com/Carolazzalin)
