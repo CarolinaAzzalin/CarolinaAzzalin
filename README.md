@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://home.newtonpaiva.br/?gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPE0LjIbSdIPuYIkIFHN8oj49v1AwZRFGbkLm1joCM_xLBxGopGGZ6AaAh0hEALw_wcB">Newton Paiva</a>.
-- 💼 &nbsp; Trabalhando como Analista de Implantação, responsável pelas novas tecnologias na <a href="https://www.aec.com.br/">AeC.com</a>
+- 💼 &nbsp; Trabalhando como Analista de Négocios na <a href="https://simply.com.br/">Simply</a>
 - 🌱 &nbsp; Aprendendo mais sobre algumas linguagens de programação como HTML, CSS, JS, JavaScript, Phyton, C# e C++.
 
 <h2> :rocket: &nbsp;Minhas Skills </h2>
