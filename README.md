@@ -3,19 +3,23 @@
 <h3> &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://home.newtonpaiva.br/?gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPE0LjIbSdIPuYIkIFHN8oj49v1AwZRFGbkLm1joCM_xLBxGopGGZ6AaAh0hEALw_wcB">Newton Paiva</a>.
-- 💼 &nbsp; Trabalhando como Analista de Négocios na <a href="https://simply.com.br/">Simply</a>
-- 🌱 &nbsp; Aprofundando conhecimento em C#.NET.
+- 🎓 &nbsp; Graduada em Análise e Desenvolvimento de Sistemas na <a href="https://home.newtonpaiva.br/?gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPE0LjIbSdIPuYIkIFHN8oj49v1AwZRFGbkLm1joCM_xLBxGopGGZ6AaAh0hEALw_wcB">Newton Paiva</a>.
+- 💼 &nbsp; Trabalhando como Analista de Desenvolvimento de Sistemas na <a href="https://simply.com.br/">Simply</a>
+- 🌱 &nbsp; Aprofundando conhecimento em FrontEnd.
 
 <h2> :rocket: &nbsp;Minhas Skills </h2>
 
 **Aplicações e Dados**
 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+   
   
 **Utilidades**
 
